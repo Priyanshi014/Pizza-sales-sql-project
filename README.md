@@ -8,6 +8,7 @@ This project focuses on analyzing a real-world Pizza Sales dataset using SQL to 
 This project demonstrates strong SQL fundamentals combined with business-oriented analytical thinking.
 
 📊 Business Problems Solved
+
 ✔ Total number of orders placed
 ✔ Total revenue generated from pizza sales
 ✔ Highest priced pizza
@@ -22,6 +23,7 @@ This project demonstrates strong SQL fundamentals combined with business-oriente
 ✔ Top 3 pizzas by revenue within each category (Window Functions)
 
 🛠 Tech Stack
+
 💾 MySQL
 📌 SQL 
 📊 Aggregation & Business Analysis Techniques
@@ -30,6 +32,7 @@ This project demonstrates strong SQL fundamentals combined with business-oriente
 INNER JOIN (Multi-table joins), GROUP BY & ORDER BY, Aggregate Functions (SUM, AVG, COUNT), Subqueries, Window Functions (RANK(), SUM() OVER()), Revenue Calculations, Data Grouping & Ranking and Business KPI Extraction.
 
 📈 Key Insights Generated
+
 🔹 Identified revenue-driving pizza categories
 🔹 Discovered peak ordering hours
 🔹 Determined most preferred pizza sizes
@@ -38,6 +41,7 @@ INNER JOIN (Multi-table joins), GROUP BY & ORDER BY, Aggregate Functions (SUM, A
 🔹 Calculated average daily demand
 
 📌 Sample Insight
+
 📦 Total Orders: 21,350
 💰 Total Revenue: 676,559.60
 🏆 Top Revenue Pizza: The Barbecue Chicken Pizza
@@ -45,6 +49,7 @@ INNER JOIN (Multi-table joins), GROUP BY & ORDER BY, Aggregate Functions (SUM, A
 
 🎯 Project Impact
 This project simulates real-world retail analytics where SQL is used to:
+
 🔹Monitor sales performance
 🔹Identify revenue drivers
 🔹Understand customer demand patterns
